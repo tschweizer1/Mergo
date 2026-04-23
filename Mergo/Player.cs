@@ -1,8 +1,8 @@
 ﻿public class Player
 {
     // TODO: branches will replace these 0 placeholders
-    public float MoveSpeed = 2564f;
-    public float JumpForce = 934587f;
+    public float MoveSpeed = 3f;
+    public float JumpForce = 5f;
 
     public void Move(float horizontal)
     {
