@@ -1,6 +1,6 @@
 ﻿public class EnemyAi
 {
-    public float DetectionRadius = 0f;
+    public float DetectionRadius = 20000f;
     public float PatrolSpeed = 0f;
 
     public void Patrol()
